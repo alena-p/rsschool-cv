@@ -3,12 +3,14 @@
 ## Basic information
 
 **Name:** Potegova Alena
+
 **Phone:** +7-991-019-1721
+
 **Email:** alena.potegova@gmail.com
 
-(./images/me.pmg)
+![It's me](./images/me.pmg)
 
-(https://alena-p.github.io/rsschool-cv/cv)
+[My CV link](https://alena-p.github.io/rsschool-cv/cv)
 
 ## Sammary
 
