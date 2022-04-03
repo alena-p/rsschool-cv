@@ -8,7 +8,7 @@
 
 **Email:** alena.potegova@gmail.com
 
-![It's me](./images/me.pmg)
+![It's me](./images/me.png)
 
 [My CV link](https://alena-p.github.io/rsschool-cv/cv)
 
