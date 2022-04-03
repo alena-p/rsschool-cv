@@ -8,6 +8,8 @@
 
 (./images/me.pmg)
 
+(https://alena-p.github.io/rsschool-cv/cv)
+
 ## Sammary
 
 I like IT industry, because it has a power to develop our life and solve many issues. Programming and software development is like an art and I am sure it hase unlimit opportunities. I want to dive deeper to the profession and become able to create useful products.
